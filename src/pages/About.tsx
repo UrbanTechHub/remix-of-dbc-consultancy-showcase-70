@@ -17,17 +17,10 @@ const leadership = [
     name: 'Charles David Bradley',
     role: 'Chief Executive Officer',
     image: ceoPortrait,
-    bio: 'David brings over 25 years of engineering leadership, setting strategic direction and safeguarding technical standards across every sector we serve.',
+    bio: 'David founded CDB Consultants on a simple conviction: complex infrastructure deserves engineering that is as buildable as it is rigorous. Over a 25-year career spanning the UK, EMEA and West Africa, he has led the structural and civil design of high-rise commercial developments, energy facilities and large-scale utility networks — work that lives or dies on the quality of its documentation and the discipline behind it. As Chief Executive, he sets the strategic direction of the practice and personally safeguards technical standards across every sector we serve, chairing design reviews and signing off the deliverables that carry the CDB name. His approach is hands-on and collaborative: he embeds with client and contractor teams early, challenges assumptions, and keeps delivery anchored to clear engineering intent rather than paperwork that obscures it. He holds a Master of Science in Civil Engineering and is a Professional Engineer, and he remains a practising technical lead — not a distant figurehead — because the standard clients buy is the standard he is prepared to defend.',
     credentials: ['M.Sc. Civil Engineering', 'Professional Engineer (PE)', '25+ years experience'],
     linkedin:
       'https://www.linkedin.com/in/charles-david-bradley-9b331323a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
-  },
-  {
-    name: 'Henry Anderson',
-    role: 'Director of Operations',
-    image: '/lovable-uploads/0e54afd2-4b20-4e48-9e13-ac523830e90d.png',
-    bio: 'Henry owns project execution and quality assurance across disciplines, keeping delivery on programme and on budget without compromising rigour.',
-    credentials: ['M.Sc. Project Management', 'PMP Certified', '18+ years experience'],
   },
 ];
 
